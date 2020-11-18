@@ -1,4 +1,4 @@
-1. Extract the zipped folder for the project to any directory. 
+1. Make sure you know the path to the project directory. 
 
 2. Using the terminal navigate to the directory
 
